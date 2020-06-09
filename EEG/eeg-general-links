@@ -1,1 +1,10 @@
 # list of general, interesting eeg stuff
+
+# open eeg project for eeg phantom
+https://osf.io/qrka2/wiki/home/
+
+# python The Hyperscanning Python Pipeline 
+https://github.com/GHFC/HyPyP
+
+# dipole simulator
+https://github.com/mne-tools/dipole-simulator#meeg-dipole-simulator
