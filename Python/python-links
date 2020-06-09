@@ -1,0 +1,8 @@
+# list of python resources
+
+# checking code complexity
+https://github.com/PyCQA/mccabe
+https://flake8.pycqa.org/en/latest/index.html
+
+# napari is a fast, interactive, multi-dimensional image viewer for Python
+https://napari.org/docs/index.html
